@@ -1,7 +1,7 @@
 ### Hi there, i'm Iago Faria ! 👋
 
 - 🔭 I’m currently searching for new opportunites
-- 🌱 I’m currently learning front-end tecnologys  (HTML, CSS, JavaScript)
+- 🌱 JS | REACT.js | HTML | CSS | Sass | Bootstrap | Node.js
 
 <div align="center">
   <a href="https://github.com/Iagoufaria">
