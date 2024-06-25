@@ -27,7 +27,7 @@
  
 </div>
   
-  ![Snake animation](https://github.com/iagoufaria/iagoufaria/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
